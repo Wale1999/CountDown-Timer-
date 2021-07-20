@@ -1,0 +1,1 @@
+This is my first project i'll be pushing to github. It is a countdown application i built with HTML, CSS and Vanilla JavaScript. I hope to continue updating my Github profile with wonderful and beautiful projects.
