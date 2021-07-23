@@ -1,4 +1,5 @@
 let countDown = () => {
+    //Declaring our variables and setting them into motion
     const date = new Date('June 26, 2022 00:00:00').getTime();
     const currentTime = new Date().getTime();
     const subtractTime = date - currentTime;
